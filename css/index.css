@@ -118,7 +118,7 @@ header nav a:hover{
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+    /* background: black; */
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -135,6 +135,36 @@ header nav a:hover{
 }
 .bottom-content .text-container:last-child {
     padding-right: 0;
+}
+.b1{
+    background: teal;
+}
+.b2{
+	background:gold;
+}
+.b3{
+	background:cadetblue;
+}
+.b4{
+	background-color:coral;
+}             
+.b5{          
+	background-color:crimson;
+}             
+.b6{          
+	background-color:forestgreen;
+}             
+.b7{          
+	background-color:darkorchid;
+}             
+.b8{          
+	background-color:hotpink;
+}             
+.b9{          
+	background-color:indigo;
+}             
+.b10{         
+	background-color:dodgerblue;
 }
 footer {
     width: 100%;
@@ -153,3 +183,4 @@ footer nav a {
     text-decoration: none;
 }
      
+
