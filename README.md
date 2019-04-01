@@ -34,15 +34,28 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Timur Mone: 
+"Semantic gives meaning to html on web instead of just presentation. P reps Paragraph. H1 says "look at me, i'm the one you are looking for"
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Timur Mone:
+Biggest difference is block allows to set a width and height on the element. 
+Inline block - the elements dont break, can sit next to other elements. 
 
 3. What are the 4 areas of the box model?
 
+Timur Mone: TRBL - Content, Padding, Border, margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+Timur Mone: y-axis
 
 5. Explain why git is valuable to a team of developers.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
+
+Timur Mone: it is valuable because it prevents user from doing something regrettable, as well as doing something deeper than usual GUI.
 
 ## Project Set Up
 
